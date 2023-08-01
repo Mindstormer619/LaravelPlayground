@@ -1,3 +1,6 @@
+> # ARCHIVED
+> Archiving this to get Github to shut up about security vulns in this throwaway repo.
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
